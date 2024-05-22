@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Code Repository](https://github.com/DarkPhoenixNinja92/Fylo-Data-Storage-Component)
-- Live Site URL: [Live Site URL](https://darkphoenixninja92.github.io/Fylo-Data-Storage-Component/)
+- Solution URL: [Github Code Repository](https://github.com/ShaunPour/Fylo-Data-Storage-Component)
+- Live Site URL: [Live Site URL](https://shaunpour.github.io/Fylo-Data-Storage-Component/)
 
 ## My process
 
